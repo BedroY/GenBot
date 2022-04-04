@@ -1,0 +1,23 @@
+{
+  "name": "genbot",
+  "version": "1.0.0",
+  "description": "A general use Discord bot, continuation/remake of BedroBot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BedroY/GenBot.git"
+  },
+  "author": "BedroY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BedroY/GenBot/issues"
+  },
+  "homepage": "https://github.com/BedroY/GenBot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
